@@ -1,0 +1,52 @@
+1|Wakeboard Boats|50000
+2|Pontoon Boats|7000
+3|Fishing Boats|5000
+4|Bowriders|15000
+5|High Performance Boats|50000
+6|Pontoon Boats|7000
+7|Fishing Boats|5000
+8|Bowriders|15000
+9|Personal Watercraft|5000
+10|Bass Boats|10000
+11|Inflatable Boats|10000
+12|Deck boats|100000
+13|Recreational Boats|50000
+14|Towboats|10000
+15|Boston Whaler 270 Dauntless boat|40000
+16|Bavaria Cruiser 46|50000
+17|Lagoon 380 boat|30000
+18|Honda Civic|20000
+19|Tesla X|40000
+20|Tesla Y|50000
+21|Tesla Roadster|200000
+22|Toyota Camry|30000
+23|Subaru Impreza|30000
+24|Ford Explorer|35000
+25|Ford Focus|30000
+26|Chevrolet Impala|25000
+27|Toyota RAV4|40000
+28|Chevrolet Malibu|35000
+29|Acura TL|36000
+30|Dodge Charger|27000
+31|BMW 3|30000
+32|Toyota Highlander|43000
+33|Nissan Maxima|32000
+34|Honda CR-V|23000
+35|Suzuki GSX-R1000R|14000
+36|Triumph Bonneville Bobber|10000
+37|Honda CBR1000RR SP|12000
+38|Yamaha FZ-10|9000
+39|Honda Rebel 500|9000
+40|Harley-Davidson Street Bob 114|15000
+41|Ducati Supersport S|16000
+42|KTM 1090 Adventure R|16000
+43|Aprilla Tuono V4 1100 Factory ABS|13000
+44|Indian Chieftain Elite|9000
+45|Ducati Scrambler Desert Sled|14000
+46|Kawasaki Versys-X 300|12000
+47|Triumph Street Triple RS|17000
+48|Moto Guzzi MXG-21 Flying Fortress|15000
+49|Kawasaki Z900|14000
+50|Triumph Street Cut|15000
+51|MV Agusta Brutale|800
+﻿1|Wakeboard Boats|50000
